@@ -1,0 +1,2 @@
+# Pratica-com-TypeScript
+Desafio de projeto proposto pelo bootcamp Santander Fullstack Developer, com a introdução prática aos fundamentos do TypeScript, fazendo uso do Lite Server para compilação do código, tipagem de objetos com Enum, interfaces, types, listas, fundamentos de retorno de funções com callback, void, fundamentos de any, unknown e never, como também os principais conceitos do tsconfig.
